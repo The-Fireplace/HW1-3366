@@ -8,11 +8,11 @@
 
 - Photos of the control interface:
 
-![Outer control interface](https://the-fireplace.github.io/HW1-3366/HW1-C%20Interface%201.jpg)
-![Inner control interface](https://the-fireplace.github.io/HW1-3366/HW1-C%20Interface%202.jpg)
+![Outer control interface](https://github.com/The-Fireplace/HW1-3366/raw/master/HW1-C%20Interface%201.jpg)
+![Inner control interface](https://github.com/The-Fireplace/HW1-3366/raw/master/HW1-C%20Interface%202.jpg)
 
 - Gif of the interface in action:
-![Inner control interface in use](https://the-fireplace.github.io/HW1-3366/HW1-C.gif)
+![Inner control interface in use](https://github.com/The-Fireplace/HW1-3366/raw/master/HW1-C.gif)
 
 - Issues with the current design:
 
