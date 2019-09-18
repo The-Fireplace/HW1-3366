@@ -9,9 +9,11 @@
 - Photos of the control interface:
 
 ![Outer control interface](https://github.com/The-Fireplace/HW1-3366/raw/master/HW1-C%20Interface%201.jpg)
+
 ![Inner control interface](https://github.com/The-Fireplace/HW1-3366/raw/master/HW1-C%20Interface%202.jpg)
 
 - Gif of the interface in action:
+
 ![Inner control interface in use](https://github.com/The-Fireplace/HW1-3366/raw/master/HW1-C.gif)
 
 - Issues with the current design:
@@ -48,4 +50,8 @@ One improvement I suggest for this design is to add labels to the buttons, such 
 
 # Getting an A
 
+![Program](https://github.com/The-Fireplace/HW1-3366/raw/master/elevator.png)
 
+![Program](https://github.com/The-Fireplace/HW1-3366/raw/master/elevator-moving.png)
+
+![Program](https://the-fireplace.github.io/HW1-3366/HW1.Gable.gif)
